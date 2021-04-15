@@ -1,6 +1,7 @@
 # Fortnite AutoLeaker
 
 Fortnite Autoleaker is an open source program created in python.
+![FNLeaker Logo](https://cdn.discordapp.com/attachments/706784048034349056/832252005795627028/fotnite_leaker.png)
 
 ## Installation
 
