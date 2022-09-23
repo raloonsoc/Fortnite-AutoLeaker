@@ -20,9 +20,3 @@ PATH = r"C:/Users/rush/Desktop/AutoLeak/images"
 
 ## Code
 The code is not very tidy, but it is functional, it is open source and you can change anything you want.
-
-
-## Api
-This tool uses [Fortnite-Api](https://fortnite-api.com)
-![Fortnite-Api Logo](https://fortnite-api.com/assets/img/logo_transparent.png?v=2022_3)
-
